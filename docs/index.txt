@@ -2,9 +2,12 @@
 <html lang=“en-US”>
 	<head>
 		<meta charset=“utf-8” />
+		<meta name="viewport" content="width=device-width" />
 		<title>colinflane</title>
 	</head>
 	<body>
-		<h1>colin f lane</h1>
+		<header>
+			<h1><a href="index.html">colin f lane</a></h1>
+		</header>
 	</body>
 </html>
