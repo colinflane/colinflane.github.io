@@ -20,6 +20,8 @@
 				<li><a href="memos/con">conditioning</a></li>
 				<li><a href="memos/mm">making money</a></li>
 				<li><a href="memos/garden">gardening</a></li>
+				<li><a href="memos/idol">idolatry</a></li>
+				<li><a href="memos/progServ">progress server</a></li>
 			</ul>
 		</main>
 	</body>
