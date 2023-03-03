@@ -12,9 +12,13 @@
 		</header>
 		<main>
 			<h1>poems</h1>
-			<p><strong>no parking / active driveway</strong></p>
+			<p><strong>NO PARKING / ACTIVE DRIVEWAY</strong></p>
 			<ul>
-				<li><a href="poems/haiku1">haiku 1</a></li>
+				<li><a href="poems/haiku-i">haiku i</a></li>
+				<li><a href="poems/haiku-ii">haiku ii</a></li>
+				<li><a href="poems/haiku-iii">haiku iii</a></li>
+				<li><a href="poems/haiku-iv">haiku iv</a></li>
+				<li><a href="poems/haiku-v">haiku v</a></li>
 			</ul>
 		</main>
 	</body>
