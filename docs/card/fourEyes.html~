@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang=“en-US”>
+	<head>
+		<meta charset=“utf-8” />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="stylesheet" href="../style.css" />
+		<title>fourEyes</title>
+	</head>
+	<body>
+		<header>
+			<p><a href="../index">colin f lane</a><p>
+		</header>
+		<main>
+		  <h1>Four-Eyes</h1>
+		  <p>#film #michaelMann #ferrari</p>
+			<p>create: 20250208</p>
+			<br>
+			<p><strong>thoughts on failure as aspirational exploratory feedback mechanism</strong></p>
+		</main>
+	</body>
+</html>
